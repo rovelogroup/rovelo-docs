@@ -16,7 +16,7 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
+          "introduction",
           "quickstart"
         ]
       }
@@ -74,7 +74,8 @@
   },
   "description": "All information regarding the Rovelo platform.",
   "appearance": {
-    "default": "system"
+    "default": "system",
+    "strict": false
   },
   "icons": {
     "library": "lucide"
