@@ -18,20 +18,26 @@
         "pages": [
           "introduction",
           "quickstart"
-        ]
+        ],
+        "icon": "rocket"
       }
     ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Updates",
+          "icon": "git-commit-horizontal",
+          "href": "https://feedback.rovelo.app/updates"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Untitled Anchor",
+          "href": ""
+        }
+      ],
+      "tabs": [
+        {
+          "tab": "Untitled Tab",
+          "href": ""
         }
       ]
     }
