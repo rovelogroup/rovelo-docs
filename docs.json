@@ -38,8 +38,7 @@
   },
   "logo": {
     "light": "/images/Light.svg",
-    "dark": "/images/Dark.svg",
-    "href": "https://docs.rovelo.app"
+    "dark": "/images/Light.svg"
   },
   "navbar": {
     "links": [
@@ -74,8 +73,8 @@
   },
   "description": "All information regarding the Rovelo platform.",
   "appearance": {
-    "default": "system",
-    "strict": false
+    "default": "dark",
+    "strict": true
   },
   "icons": {
     "library": "lucide"
