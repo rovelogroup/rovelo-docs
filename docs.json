@@ -12,35 +12,36 @@
     "dark": "/images/Favicon.svg"
   },
   "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "introduction",
-          "quickstart"
-        ],
-        "icon": "rocket"
-      }
-    ],
     "global": {
       "anchors": [
         {
           "anchor": "Updates",
           "icon": "git-commit-horizontal",
           "href": "https://feedback.rovelo.app/updates"
-        },
-        {
-          "anchor": "Untitled Anchor",
-          "href": "https://google.com"
-        }
-      ],
-      "tabs": [
-        {
-          "tab": "Untitled Tab",
-          "href": "https://google.com/search"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Documents",
+        "pages": [
+          {
+            "group": "Getting Started",
+            "icon": "rocket",
+            "pages": [
+              "introduction",
+              "quickstart"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API References",
+        "pages": [
+          "untitled-page"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/Light.svg",
