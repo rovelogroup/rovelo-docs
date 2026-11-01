@@ -78,7 +78,7 @@
       "github": "https://github.com/rovelogroup"
     }
   },
-  "description": "All information regarding the Rovelo platform.",
+  "description": "All information regarding the Rovelo community management platform.",
   "appearance": {
     "default": "dark",
     "strict": true
